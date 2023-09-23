@@ -2,7 +2,7 @@
 ## Cài Office Offline ##
 ### Office 365 ###
   - [Office365BusinessRetail.img](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EccgYM5ofaxMtKFCxmZ_6UIBoIIFothbk1r1MX7jY8PhMg?e=CovnOg)
-  - 
+  - [Office365ProlusRetail.img](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EcnOZ8MKBoxJoYOwLLQ7pVkB7oqv3F5ongrMAhzDerV5Hg?e=zJDkSH)
 ### Office 2021 ###
   - [Proplus2021retail.img](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EXf8X5BidaVEvl6mMPkv0vkBpvqHaUUJ5tc-yE9yfmghIw?e=esNq01)
   - [Professional plus 2021 x86 x64.iso](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EXiGwcp2FV5IkwMqbgz_vuMByjQHiB7t2nbSF4osVSPD6A?e=LcufFG)
@@ -13,7 +13,7 @@
 ### [Office 2013](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaWJKIXlU7pDif-a2n2TO60BJaLdpQhMFxk7bYrsEt6uBA?e=w2UQdQ) ###
 ### Office 2010 ###
   - [Office2010 64Bit](https://drive.google.com/file/d/1yI6rQJh6bDZ7GpgykVvpZcwYHkFZr-0J/view?usp=sharing)
-  - [Office2010 32Bit]()
+  - [Office2010 32Bit](https://drive.google.com/file/d/1OWsPSuOb1U1zjSWgQr2UE0kUuTGp2Dmv/view?usp=sharing)
 ### [Office 2007](https://drive.google.com/file/d/1hYt1IlHTs7_c2IRhHHiA5KyKB3rMuaQb/view?usp=sharing) ###
 ### [Office 2003](https://drive.google.com/file/d/110o-YDBOUF-QX61KlWDC4j_9pdFJFs0q/view?usp=sharing) ###
 
