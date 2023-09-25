@@ -40,4 +40,4 @@
   - ![image](https://github.com/BsNgChiThanh/SourceOffice/assets/82578024/c84706f1-1b3a-43f9-bc35-6ee74ed7562d)
   - Cuối cùng bấm: **Start Deloy**
   - ![image](https://github.com/BsNgChiThanh/SourceOffice/assets/82578024/58daa00f-6264-41c6-9e8e-627551aaa822)
-  - **[Tham khảo](https://anh-dv.com/tien-ich-van-phong/cach-tuy-chon-thanh-phan-khi-cai-dat-office-2019-office-365-online)**
+  - **[Tham khảo youtobe](https://youtu.be/YCh6MQ3w4bQ)**
